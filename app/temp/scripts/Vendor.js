@@ -46,6 +46,8 @@
 
 	'use strict';
 
+	__webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"picturefill\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
+
 	__webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"lazysizes\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
 
 /***/ }
